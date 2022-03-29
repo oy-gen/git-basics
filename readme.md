@@ -2,12 +2,12 @@
 
 ## git repository
 
-- `git init` -
-- `git status` -
+- `git init` - initiate git in current folder
+- `git status` - check information, changes and commit status
 
 ## commit
 
-- `git add` -
+- `git add` - ad
 - `git commit -m <commit message>` -
 - `git log` -
 
