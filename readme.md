@@ -31,4 +31,4 @@
 - `git branch` - shows existing branches
 - `git branch <branch name>` - create new branch
 - `git switch` - switch from one brach to another
-
+- `git checkout -b <branch name>` - check out if brach exists, if not create it
