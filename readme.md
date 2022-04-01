@@ -21,13 +21,14 @@
 - `git remote add origin <ssh link>` = Assign online repository to local folders via ssh link
 - `git remote remove origin <ssh link>` = Remove assigned online repository (to re-connect with new one)
 - `git remote -v` = 
-- `git push -u origin <branch name>` -
-- `git push`
-- `git pull -u origin <branch name>` -
-- `git pull`
+- `git push -u origin <branch name>` - establish 
+- `git push` - upload
+- `git pull -u origin <branch name>` - establish
+- `git pull` - download
 
 ## branching
 
-- `git branch` -
-- `git branch <branch name>` -
-- `git switch` -
+- `git branch` - shows existing branches
+- `git branch <branch name>` - create new branch
+- `git switch` - switch from one brach to another
+
