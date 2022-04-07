@@ -40,4 +40,5 @@
 - `git switch <branchname>` - switch from one brach to another
 - `git checkout -b <branch name>` - check out if brach exists, if not create it
 - `git switch -c <branchname>` - switches branch by creating a new one
+- `git checkout -- <file-name>` discard changes
 
