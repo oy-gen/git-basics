@@ -34,6 +34,7 @@
 
 ## branching
 
+- `git branch -d <branch-name>` - delete branch
 - `git branch` - shows existing branches
 - `git branch -a` - shows existing branches, also remote ones (a=all)
 - `git branch <branch name>` - create new branch
