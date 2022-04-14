@@ -43,4 +43,4 @@
 - `git checkout -b <branch name>` - check out if brach exists, if not create it
 - `git switch -c <branchname>` - switches branch by creating a new one
 - `git checkout -- <file-name>` discard changes
-- `git merge main - Von einem aktiven branch aus, den Up-to-date status des main branches mit dem aktuellen branch mergen.
+- `git merge main` - Von einem aktiven branch aus, den Up-to-date status des main branches mit dem aktuellen branch mergen.
