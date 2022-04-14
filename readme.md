@@ -27,6 +27,7 @@
 - `git remote -v` = 
 - `git push -u origin <branch name>` - push to new remote branch 
 - `git push` - upload
+- `git push -f` - force push, overwrites current push
 - `git pull -u origin <branch name>` - Downloads branch
 - `git merge origin <branch name>` - Downloads(pulls) branch and merges with branch locally
 - `git pull` - download
