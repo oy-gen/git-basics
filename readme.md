@@ -12,6 +12,7 @@
 - `git commit <filename> --amend --no-edit` = add file to current commit without editing "message"
 - `git log` = check commits
 - `git log -p` = shows more meta info about changes
+- `git commit -a --amend --no-edit ` = add to last commit dont edit the message
 
 ## how to return to save points
 
