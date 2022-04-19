@@ -47,4 +47,4 @@
 - `git merge main` - Von einem aktiven branch aus, den Up-to-date status des main branches mit dem aktuellen branch mergen.
 
 ## npm
-- 'npm -i' - install npm
+- `npm -i` - install npm
