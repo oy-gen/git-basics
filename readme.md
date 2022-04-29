@@ -48,3 +48,4 @@
 
 ## npm
 - `npm -i` - install npm
+- `npx create-react-app .`- install react in currrent folder
