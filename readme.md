@@ -24,7 +24,7 @@
 - `git fetch -a`- check meta info remotely (a=all)
 - `git remote add origin <ssh link>` = Assign online repository to local folders via ssh link
 - `git remote remove origin <ssh link>` = Remove assigned online repository (to re-connect with new one)
-- `git remote -v` = 
+- `git remote -v` = check remote link
 - `git push -u origin <branch name>` - push to new remote branch 
 - `git push` - upload
 - `git push -f` - force push, overwrites current push
